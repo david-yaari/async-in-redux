@@ -30,7 +30,7 @@ const CourseList = ({ courses }) => (
             <td>{course.authorName}</td>
             <td>{course.category}</td>
           </tr>
-        );
+        ); 
       })}
     </tbody>
   </table>
